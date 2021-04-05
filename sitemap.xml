@@ -163,13 +163,6 @@
     </url>
 
     <url>
-        <loc>https://0a.io/about.html</loc>
-        <changefreq>weekly</changefreq>
-        
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://0a.io/artwork-info.html</loc>
         <changefreq>weekly</changefreq>
         
@@ -185,6 +178,13 @@
 
     <url>
         <loc>https://0a.io/music-for-work.html</loc>
+        <changefreq>weekly</changefreq>
+        
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://0a.io/post.html</loc>
         <changefreq>weekly</changefreq>
         
         <priority>0.8</priority>
